@@ -1,0 +1,77 @@
+.new-recipe__controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  text-align: left;
+  justify-content: flex-start;
+}
+
+.new-recipe__control label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.new-recipe__control input {
+  font: inherit;
+  padding: 0.5rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  width: 20rem;
+  max-width: 100%;
+}
+
+.new-recipe__control.invalid input {
+  border-color: red;
+  background-color: rgb(255, 215, 215);
+}
+
+.new-recipe__control.invalid label {
+  color: red;
+}
+
+.new-recipe__actions {
+  text-align: right;
+}
+
+.new-recipe__control button {
+  font: inherit;
+  background: #c05209;
+  border: 1px solid #c05209;
+  padding: 0.5rem 1.5rem;
+  color: white;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.26);
+  border-radius: 20px;
+}
+
+.new-recipe__control button:hover {
+  color: #fbd4ca;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.26);
+}
+
+.welcome {
+  text-align: center;
+  max-width: 46rem;
+  width: 90%;
+  margin: auto;
+  margin-top: -10rem;
+  position: relative;
+  background-color: #383838;
+  color: white;
+  border-radius: 14px;
+  padding: 1rem;
+  box-shadow: 0 1px 18px 10px rgba(0, 0, 0, 0.25);
+}
+
+.welcome h2 {
+  font-size: 1.9rem;
+  margin-top: 0;
+}
+
+@media (min-width: 860px) {
+  .new-recipe__controls {
+    justify-content: flex-end;
+  }
+}

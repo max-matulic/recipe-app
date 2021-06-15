@@ -1,0 +1,9 @@
+.edit {
+  cursor: pointer;
+  width: 25px;
+  fill: #fff;
+}
+
+.edit :hover {
+  fill: rgb(130, 255, 130);
+}

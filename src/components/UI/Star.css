@@ -1,0 +1,19 @@
+.star {
+  width: 30px;
+  fill: grey;
+  margin: 7px;
+  cursor: pointer;
+}
+
+.star :hover,
+.active {
+  background-color: #4b4b4b;
+  fill: orange;
+}
+
+/* .filled {
+  width: 30px;
+  fill: orange;
+  margin: 7px;
+  cursor: pointer;
+} */

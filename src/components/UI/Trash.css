@@ -1,0 +1,10 @@
+.trash {
+  width: 19px;
+  fill: #fff;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.trash :hover {
+  fill: rgb(247, 86, 86);
+}
