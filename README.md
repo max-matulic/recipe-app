@@ -22,8 +22,6 @@
 
 ---
 
-## 🔨 How To Use
-
 ## 💻 Installation
 
 `npm install recipe-app-master`
