@@ -1,21 +1,8 @@
 # React Recipe
 
-![Project Image](https://ibb.co/PTgN4kX)
+- Recipe app developed in react with react hooks using CRUD operations.
 
----
-
-### Table of Contents
-
-You're sections headers will be used to reference location of destination.
-
-- [Description](#description)
-- [How To Use](#how-to-use)
-
----
-
-## Description
-
-Recipe app developed in react with react hooks using CRUD operations.
+## ⚙️ Features
 
 - User can view the list of entered recipes
 - User can view details of every recipe (ingredients and amounts)
@@ -24,7 +11,9 @@ Recipe app developed in react with react hooks using CRUD operations.
 - User can delete the recipe
 - User can add certain recipe to the list of favourite recipes
 
-#### Technologies
+---
+
+## 📱 Technologies
 
 - Visual Studio Code
 - HTML
@@ -33,8 +22,8 @@ Recipe app developed in react with react hooks using CRUD operations.
 
 ---
 
-## How To Use
+## 🔨 How To Use
 
-#### Installation
+## 💻 Installation
 
 `npm install recipe-app-master`
