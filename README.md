@@ -1,6 +1,6 @@
 # React Recipe
 
-![Project Image](file:///C:/Users/maxma/Desktop/projekt.PNG)
+![Project Image](https://ibb.co/PTgN4kX)
 
 ---
 
