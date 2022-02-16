@@ -24,4 +24,8 @@
 
 ## 💻 Installation
 
-`npm install recipe-app-master`
+- Download the project on your computer
+- Unzip it, and open the folder with IDE you use e.g. Visual Studio Code
+- run: `npm install` 
+
+
